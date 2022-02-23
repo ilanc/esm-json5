@@ -2,9 +2,8 @@
   "name": "esm",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
-  "main": "esmImports.js",
-  "module": "esmImports.js",
+  "main": "cjs.cjs",
+  "module": "esm.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
